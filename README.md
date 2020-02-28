@@ -8,15 +8,14 @@
 * 读书
 
 # 代码练习
-~~~
+```
 function f(){
   console.log('hello world')
 }
 
 f()
-~~~
+```
 
 # 这是一行代码
-~~~
-hello world!
-~~~
+`hello world!`
+
